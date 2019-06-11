@@ -1,4 +1,8 @@
 
+/**
+ * @author Jun
+ *
+ */
 public class ShowCurrentTime {
 	public static void main(String[] args) {
 		long totalMiilliseconds = System.currentTimeMillis();

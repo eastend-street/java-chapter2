@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * @author Jun
+ * @version 1.0
+ */
 public class GettingAreaWithInput {
 	public static void main (String[] args) {
 		Scanner input = new Scanner(System.in);

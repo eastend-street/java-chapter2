@@ -1,4 +1,8 @@
 
+/**
+ * @author Jun
+ * @version 1.0
+ */
 public class GettingCircleArea {
 	public static void main (String[] args) {
 		int radius = 10;

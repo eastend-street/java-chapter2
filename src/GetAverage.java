@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * @author Jun
+ * @version 1.0
+ *
+ */
+
 public class GetAverage {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
@@ -11,6 +17,6 @@ public class GetAverage {
 		double english = input.nextDouble();
 		double average = (math + science + english) / 3;
 		System.out.println("The average of Math: " + math + ", Science: " + science 
-				+ ", English: " + english + " is " + average);
+				+ ", English: " + english + " is " + average + ".");
 	}
 }
